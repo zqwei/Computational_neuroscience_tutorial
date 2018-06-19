@@ -3,6 +3,7 @@
 * ion channels and membrane potential (Nernst equation)
 * Membrane capacitance and resistance
 * Two basic models -- HH model and LIF model
+* cable theory (optional)
 
 
 
@@ -67,6 +68,12 @@
 * Exponential integrate-and-fire (https://www.physiology.org/doi/10.1152/jn.01107.2007)
 * GLIF (http://faculty.washington.edu/etsb/AMATH534/slides/Mihalas_GLIF_2018.pdf)
 * Izhikevich neuron (https://www.izhikevich.org/publications/spikes.htm)
+
+# Cable Theory (passive cable)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cable_theory_Neuron_RC_circuit_v3.svg/600px-Cable_theory_Neuron_RC_circuit_v3.svg.png)
+
+https://en.wikipedia.org/wiki/Cable_theory
+
 
 # References
 * http://www.scholarpedia.org/article/Electrical_properties_of_cell_membranes
