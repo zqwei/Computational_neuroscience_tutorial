@@ -2,7 +2,7 @@
 * a common structure of a neuron
 * ion channels and membrane potential (Nernst equation)
 * Membrane capacitance and resistance
-
+* Two basic models -- HH model and LIF model
 
 
 
