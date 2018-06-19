@@ -53,6 +53,21 @@
 
 ![](https://latex.codecogs.com/gif.latex?%5Ctau_m%5Cfrac%7BdV%7D%7Bdt%7D%20%3D%20-%28V-E_L%29%20&plus;%20I_%7Bext%7DR_m)
 
+* Fire at threshold V_th
+* Reset at threshold to V_reset
+* A refractory period followed reset
+
+## Simulation of LIF model
+* measure the number of spikes at different constant input current
+* relate spike rate with input current
+* any function? how to explain theoretically? (try fourier transform)
+* how about noisy input?
+
+## Generalized LIF model
+* Exponential integrate-and-fire (https://www.physiology.org/doi/10.1152/jn.01107.2007)
+* GLIF (http://faculty.washington.edu/etsb/AMATH534/slides/Mihalas_GLIF_2018.pdf)
+* Izhikevich neuron (https://www.izhikevich.org/publications/spikes.htm)
+
 # References
 * http://www.scholarpedia.org/article/Electrical_properties_of_cell_membranes
 * https://en.wikipedia.org/wiki/Biological_neuron_model
