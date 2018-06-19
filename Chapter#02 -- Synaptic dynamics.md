@@ -22,6 +22,7 @@
 # Challenge exercise
 * model a small all-to-all network with 100 of LIF neurons and they interconnect with each other using gap junction
 * model a small all-to-all network with 100 of LIF neurons and they interconnect with each other using GABA
+* try to see if you can generate this https://en.wikipedia.org/wiki/Neural_oscillation
 
 # References
 * https://en.wikipedia.org/wiki/Gap_junction
