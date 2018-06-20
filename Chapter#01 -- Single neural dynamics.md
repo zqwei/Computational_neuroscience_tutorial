@@ -44,6 +44,7 @@
 ![AP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnbGkwVX2WGVazPfW-Z2EuKS14FRTrqAkxe0EhoN-vlEzb3U7S)
 
 ## Simulation of HH model
+* model code : http://www.cns.nyu.edu/~rinzel/CMNSF07/codes/HH%20matlab.txt
 * -5nA to 12nA
 * equilibrium stage, single-spike stage, limit cycle stage
 * center manifold visualization of limit cycle
