@@ -22,9 +22,12 @@ The Na+/K+-ATPase enzyme is a solute pump that pumps sodium out of cells while p
 * **Equilibrium** refers to the fact that the net ion flux at a particular voltage is zero. In a single-ion system, reversal potential is synonymous with equilibrium potential; their numerical values are identical.
 
 ### Nernst equation of reversal potentials
-![Nernst equation](http://digitalfirst.bfwpub.com/principles_of_life/asset/act_3401_nernst_equation/act3401l1.png)
-
 The Nernst equation is derived from the standard changes in the Gibbs free energy associated with an electrochemical transformation. For any electrochemical reduction reaction of the form:
+```latex
+[ion]_{in} + ze^- -> [ion]_{out}
+```
+
+![Nernst equation](http://digitalfirst.bfwpub.com/principles_of_life/asset/act_3401_nernst_equation/act3401l1.png)
 
 ## Membrane capacitance and resistance
 ![Circuit](https://www.researchgate.net/profile/Alessio_Franci/publication/300414100/figure/fig1/AS:364002174619658@1463796289737/Examples-of-neuronal-circuits-A-Electrical-circuit-of-the-Hodgkin-Huxley-model-taken.ppm)
