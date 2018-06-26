@@ -8,7 +8,7 @@
 
 
 # Structure of a neuron
-![Neuron](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Neuron.svg/800px-Neuron.svg.png)
+![Neuron](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Neuron.svg/400px-Neuron.svg.png)
 
 # Ion channels and membrane potential
 ![Ion](https://image.slidesharecdn.com/actionpotentials-animalsystems-141110120811-conversion-gate02/95/action-potentials-animal-systems-2-638.jpg?cb=1415621630)
