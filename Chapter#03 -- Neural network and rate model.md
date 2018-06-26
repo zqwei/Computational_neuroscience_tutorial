@@ -21,7 +21,7 @@
 ![](http://player.slideplayer.com/26/8266996/data/images/img12.jpg)
 
 # Connections
-![](connections.png)
+![](Suppl_materials/connections.png)
 
 * Shunting inhibition:  A neuron receiving one excitatory and one inhibitory input.  (a) Stimulation of the excitatory input causes inward postsynaptic current that spreads to the soma, where it can be recorded as an EPSP. (b) When the inhibitory and excitatory inputs are stimulated together, the depolarizing current leaks out before it reaches the soma.
 ![](https://sites.oxy.edu/linden/Cogsci320/shunting.jpg)
