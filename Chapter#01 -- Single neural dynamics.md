@@ -26,6 +26,7 @@ The Nernst equation is derived from the standard changes in the Gibbs free energ
 ```latex
 [ion]_{in} + ze^- -> [ion]_{out}
 ```
+**Resting potential** can be determined from the Goldman equation, which is a solution of G-H-K influx equation under the constraints that total current density driven by electrochemical force is zero. (The Goldman–Hodgkin–Katz flux equation (or GHK flux equation or GHK current density equation) describes the ionic flux across a cell membrane as a function of the transmembrane potential and the concentrations of the ion inside and outside of the cell. Since both the voltage and the concentration gradients influence the movement of ions, this process is a simplified version of electrodiffusion.) The potential across the cell membrane that exactly opposes net diffusion of a particular ion through the membrane is called the Nernst potential for that ion.
 
 ![Nernst equation](http://digitalfirst.bfwpub.com/principles_of_life/asset/act_3401_nernst_equation/act3401l1.png)
 
@@ -37,6 +38,7 @@ Driving force refers to the difference between the actual membrane potential and
 ![](https://latex.codecogs.com/gif.latex?i_m%20%3D%20%5Csum_j%20g_j%28V-E_j%29)
 * g: conductance -- inverse of resistance
 * E: reversal potential
+* if Vm > E, current outfluxes; if Vm < E, current influxes; if Vm == E, net current is zero.
 
 ![](https://latex.codecogs.com/gif.latex?%5Cfrac%7BdQ%7D%7Bdt%7D%3DC_m%5Cfrac%7BdV%7D%7Bdt%7D%3D-i_m%20&plus;%20i_%7Bext%7D)
 
