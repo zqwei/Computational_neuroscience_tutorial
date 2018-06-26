@@ -11,12 +11,12 @@
 ![Neuron](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Neuron.svg/400px-Neuron.svg.png)
 
 # Ion channels and membrane potential
-![Ion](https://image.slidesharecdn.com/actionpotentials-animalsystems-141110120811-conversion-gate02/95/action-potentials-animal-systems-2-638.jpg?cb=1415621630)
+<img src="https://image.slidesharecdn.com/actionpotentials-animalsystems-141110120811-conversion-gate02/95/action-potentials-animal-systems-2-638.jpg?cb=1415621630" width="300">
 
 The Na+/K+-ATPase enzyme is a solute pump that pumps sodium out of cells while pumping potassium into cells, both **against** their concentration gradients. This pumping is active (i.e. it uses energy from ATP). For every ATP molecule that the pump uses, three sodium ions are exported and two potassium ions are imported; there is hence a net export of a single positive charge per pump cycle.
 
 ## Equilibrium and reversal potentials
-![Potentials](http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/measuring_the_membrane_potential_basic_method_w.jpg)
+<img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/measuring_the_membrane_potential_basic_method_w.jpg" width="300">
 
 * **Reversal potential** is the membrane potential at which a given neurotransmitter causes no net current flow of ions through that neurotransmitter receptor's ion channel
 * **Equilibrium** refers to the fact that the net ion flux at a particular voltage is zero. In a single-ion system, reversal potential is synonymous with equilibrium potential; their numerical values are identical.
@@ -63,6 +63,7 @@ where EPC is the end plate current, gACh is the ionic conductance activated by a
 ![HH model channel](http://ecee.colorado.edu/~ecen4831/cnsweb/hhact.gif)
 ## Action potential
 ![AP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnbGkwVX2WGVazPfW-Z2EuKS14FRTrqAkxe0EhoN-vlEzb3U7S)
+![AP](http://psych.lf1.cuni.cz/bpen/images/image1.6.gif)
 
 ## Simulation of HH model
 * model code : http://www.cns.nyu.edu/~rinzel/CMNSF07/codes/HH%20matlab.txt
