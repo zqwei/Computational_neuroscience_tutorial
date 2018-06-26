@@ -35,11 +35,19 @@ The Nernst equation is derived from the standard changes in the Gibbs free energ
 
 ### Membrane currents and Ohm's law
 Driving force refers to the difference between the actual membrane potential and an ion's equilibrium potential. It is defined by the following equation:
-![](https://latex.codecogs.com/gif.latex?i_m%20%3D%20%5Csum_j%20g_j%28V-E_j%29)
+![](https://latex.codecogs.com/gif.latex?i_m%20%3D%20%5Csum_j%20g_j%28V_m-E_j%29)
 * g: conductance -- inverse of resistance
 * E: reversal potential
 * if Vm > E, current outfluxes; if Vm < E, current influxes; if Vm == E, net current is zero.
 
+#### Example
+A related equation (which is derived from the more general equation above) determines the magnitude of an end plate current (EPC), at a given membrane potential, in the neuromuscular junction:
+
+![](https://latex.codecogs.com/gif.latex?EPC%20%3D%20gACh%28V_m-E%29)
+
+where EPC is the end plate current, gACh is the ionic conductance activated by acetylcholine, Vm is the membrane potential, and Erev is the reversal potential. When the membrane potential is equal to the reversal potential, Vm − Eion is equal to 0 and there is no driving force on the ions involved.
+
+### Total charge held by the membrane is a sum of influx currents and injected currents
 ![](https://latex.codecogs.com/gif.latex?%5Cfrac%7BdQ%7D%7Bdt%7D%3DC_m%5Cfrac%7BdV%7D%7Bdt%7D%3D-i_m%20&plus;%20i_%7Bext%7D)
 
 # Hodgkin-Huxley Model
@@ -62,6 +70,8 @@ Driving force refers to the difference between the actual membrane potential and
 * equilibrium stage, single-spike stage, limit cycle stage
 * center manifold visualization of limit cycle
 * bifucation (Hopf bifurcation)
+* count number of spikes in a period of time (1 - 2 seconds)
+* plot firing rate vs input current function
 
 # Integrate-and-Fire Model
 ![](https://latex.codecogs.com/gif.latex?C_m%5Cfrac%7BdV%7D%7Bdt%7D%20%3D%20-g_L%28V-E_L%29%20&plus;%20I_%7Bext%7D)
