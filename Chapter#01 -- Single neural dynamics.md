@@ -106,6 +106,7 @@ https://en.wikipedia.org/wiki/Cable_theory
 * https://en.wikipedia.org/wiki/Hodgkin%E2%80%93Huxley_model
 * http://cecas.clemson.edu/~petersj/Courses/M390/Project/Project.pdf
 * https://www.mathworks.com/matlabcentral/fileexchange/46740-hhrun-hodgkin-huxley-model-simulation-for-user-defined-input-current
+* http://psych.lf1.cuni.cz/bpen/neurobiology.htm
 
 
 ## License
