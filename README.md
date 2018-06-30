@@ -28,9 +28,9 @@ This course provides an introduction to basic sensory processing in the drosophi
 Be familiar with basic concepts in linear algebra, calculus, and probability theory. Specifically, the ability to understand simple equations involving vectors and matrices, differentiate simple functions, and understand the concept of a probability distribution. For the exercises, some familiarity with Matlab or Octave would be useful. Minimal prior background in neuroscience is required.
  
 ## Suggested readings
-Theoretical neuroscience. Dayan, P., and Abbott, L. (2005), Chaps. 2, 3, 7, 8, 10.
-Introduction To The Theory Of Neural Computation. Herts, J., and Krogh, A., and Palmer, R.G. (1991), Chaps 5-7.
-A theory of cerebellar cortex. Murr, D. (1969).
+* Theoretical neuroscience. Dayan, P., and Abbott, L. (2005), Chaps. 2, 3, 7, 8, 10.
+* Introduction To The Theory Of Neural Computation. Herts, J., and Krogh, A., and Palmer, R.G. (1991), Chaps 5-7.
+* A theory of cerebellar cortex. Murr, D. (1969).
 
 <!--
 ## Course format
